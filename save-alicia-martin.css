@@ -93,10 +93,10 @@ img.big{
   border-radius: 7px;
 }
 div.ribbons {
-	background: url(./img/bow_left.png) no-repeat 155px 70px;
+	background: url(./img/bow_left.png) no-repeat 60px 70px;
 }
 div.ribbons p {
-	background: url(./img/bow_right.png) no-repeat 655px 70px;
+	background: url(./img/bow_right.png) no-repeat 800px 70px;
 	padding: 22px;
 }
 .white {
